@@ -8,4 +8,7 @@
 import Foundation
 
 final class APICaller {
-    static l
+    static let shared = APICaller()
+    
+    private struct Constants {
+        static let 
