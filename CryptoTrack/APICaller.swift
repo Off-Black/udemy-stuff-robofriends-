@@ -11,4 +11,5 @@ final class APICaller {
     static let shared = APICaller()
     
     private struct Constants {
-        static let 
+        static let apiKey = "603D6C0D-5B5F-4E19-9657-A4DE6374AACB"
+        static let ass
