@@ -17,4 +17,6 @@ final class APICaller {
     
     private init() {}
     
-    public var ico
+    public var icons: [Icon] = []
+    
+    private var whenReadyBlock: ((Resu
