@@ -19,4 +19,8 @@ final class APICaller {
     
     public var icons: [Icon] = []
     
-    private var whenReadyBlock: ((Resu
+    private var whenReadyBlock: ((Result<[Crypto], Error>) -> Void)?
+    
+    // MARK: - Public
+    
+    p
