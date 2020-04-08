@@ -23,4 +23,5 @@ final class APICaller {
     
     // MARK: - Public
     
-    p
+    public func getAllCryptoData(
+        completion: @escaping (R
