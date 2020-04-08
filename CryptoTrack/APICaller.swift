@@ -27,4 +27,5 @@ final class APICaller {
         completion: @escaping (Result<[Crypto], Error>) -> Void
     ) {
         
-        guard !i
+        guard !icons.isEmpty else {
+            whenReadyBlock
