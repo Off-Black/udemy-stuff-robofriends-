@@ -24,4 +24,7 @@ final class APICaller {
     // MARK: - Public
     
     public func getAllCryptoData(
-        completion: @escaping (R
+        completion: @escaping (Result<[Crypto], Error>) -> Void
+    ) {
+        
+        guard !i
