@@ -32,4 +32,4 @@ final class APICaller {
             return
         }
         
-        guard 
+        guard let url = URL(string: Constants.assetsEndpoint + "?apikey=" + Constants.apiKey
