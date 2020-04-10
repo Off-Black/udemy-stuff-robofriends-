@@ -28,4 +28,8 @@ final class APICaller {
     ) {
         
         guard !icons.isEmpty else {
-            whenReadyBlock
+            whenReadyBlock = completion
+            return
+        }
+        
+        guard 
