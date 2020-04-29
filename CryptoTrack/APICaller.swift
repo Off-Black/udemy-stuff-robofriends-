@@ -43,4 +43,6 @@ final class APICaller {
             
             do {
                 // Decode response
-                let cryptos = try JSONDecoder().de
+                let cryptos = try JSONDecoder().decode([Crypto].self, from: data)
+                
+                c
