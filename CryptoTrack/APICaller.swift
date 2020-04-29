@@ -37,4 +37,7 @@ final class APICaller {
         }
         
         let task = URLSession.shared.dataTask(with: url) {data, _, error in
-            guard let data = data, error == nil else
+            guard let data = data, error == nil else {
+                return
+            }
+            
