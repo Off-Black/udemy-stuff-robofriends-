@@ -42,4 +42,5 @@ final class APICaller {
             }
             
             do {
-                // Decode respon
+                // Decode response
+                let cryptos = try JSONDecoder().de
