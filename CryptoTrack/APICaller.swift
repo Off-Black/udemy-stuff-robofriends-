@@ -45,4 +45,5 @@ final class APICaller {
                 // Decode response
                 let cryptos = try JSONDecoder().decode([Crypto].self, from: data)
                 
-                completion(.success(cryptos.sorted { first, second -> Boo
+                completion(.success(cryptos.sorted { first, second -> Bool in
+                    return first.price_usd ?? 0 > second.price_usd ?? 0
