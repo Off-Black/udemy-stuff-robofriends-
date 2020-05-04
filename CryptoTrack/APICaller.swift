@@ -45,4 +45,4 @@ final class APICaller {
                 // Decode response
                 let cryptos = try JSONDecoder().decode([Crypto].self, from: data)
                 
-                c
+                completion(.success(cryptos.sorted { first, second -> Boo
