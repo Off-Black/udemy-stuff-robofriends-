@@ -49,4 +49,5 @@ final class APICaller {
                     return first.price_usd ?? 0 > second.price_usd ?? 0
                 }))
                 
-                completion(.success(cr
+                completion(.success(cryptos.sorted { first, second -> Bool in
+              
