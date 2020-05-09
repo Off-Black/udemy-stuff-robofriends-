@@ -50,4 +50,8 @@ final class APICaller {
                 }))
                 
                 completion(.success(cryptos.sorted { first, second -> Bool in
-                    return first.type_is_crypto ?? 0 > second.type_is_crypto ?? 
+                    return first.type_is_crypto ?? 0 > second.type_is_crypto ?? 0
+                }))
+                
+                
+  
