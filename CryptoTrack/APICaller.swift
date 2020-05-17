@@ -64,4 +64,6 @@ final class APICaller {
         task.resume()
     }
     
-    public func
+    public func getAllIcons() {
+        guard let url = URL(string:
+    
