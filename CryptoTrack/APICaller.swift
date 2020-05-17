@@ -66,4 +66,4 @@ final class APICaller {
     
     public func getAllIcons() {
         guard let url = URL(string:
-    
+                "https://rest.coinapi.io/v1/assets/icons/55/?apikey=603D6
