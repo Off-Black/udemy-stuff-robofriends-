@@ -68,4 +68,7 @@ final class APICaller {
         guard let url = URL(string:
                 "https://rest.coinapi.io/v1/assets/icons/55/?apikey=603D6C0D-5B5F-4E19-9657-A4DE6374AACB")
                 else {
-     
+                return
+            }
+            
+ 
