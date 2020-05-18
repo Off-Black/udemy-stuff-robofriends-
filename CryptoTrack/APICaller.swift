@@ -71,4 +71,5 @@ final class APICaller {
                 return
             }
             
-            let task = URLSession.shared.dataTask(with: url)
+            let task = URLSession.shared.dataTask(with: url) { [weak self] data, _, error in
+            
