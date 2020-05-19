@@ -77,4 +77,4 @@ final class APICaller {
             }
         
                 do {
-               
+                    self?.icons = try JSONDecoder().decode([Icon].self, fro
