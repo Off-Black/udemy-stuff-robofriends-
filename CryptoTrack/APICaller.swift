@@ -77,4 +77,5 @@ final class APICaller {
             }
         
                 do {
-                    self?.icons = try JSONDecoder().decode([Icon].self, fro
+                    self?.icons = try JSONDecoder().decode([Icon].self, from: data)
+                    if let completion = self?.w
