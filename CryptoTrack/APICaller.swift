@@ -79,4 +79,6 @@ final class APICaller {
                 do {
                     self?.icons = try JSONDecoder().decode([Icon].self, from: data)
                     if let completion = self?.whenReadyBlock {
-                        self?.getAllCryptoDa
+                        self?.getAllCryptoData(completion: completion)
+                    }
+               
