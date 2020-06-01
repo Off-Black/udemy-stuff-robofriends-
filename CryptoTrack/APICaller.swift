@@ -81,4 +81,7 @@ final class APICaller {
                     if let completion = self?.whenReadyBlock {
                         self?.getAllCryptoData(completion: completion)
                     }
-               
+                    
+                }
+                catch {
+                    p
