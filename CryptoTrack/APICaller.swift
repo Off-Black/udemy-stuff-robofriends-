@@ -84,4 +84,7 @@ final class APICaller {
                     
                 }
                 catch {
-                    p
+                    print(error)
+                }
+            }
+            
