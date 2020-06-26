@@ -17,4 +17,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         APICaller.shared.getAllIcons()
         
-        return tru
+        return true
+        
+    }
+    
+    
+
+    // MARK: UISceneSessio
