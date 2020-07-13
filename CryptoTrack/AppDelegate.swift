@@ -32,4 +32,5 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func application(_ application: UIApplication, didDiscardSceneSessions sceneSessions: Set<UISceneSession>) {
-        // Called when the u
+        // Called when the user discards a scene session.
+        // If any sessions were disc
