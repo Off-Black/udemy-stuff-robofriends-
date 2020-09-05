@@ -134,3 +134,14 @@ class CryptoTableViewCell: UITableViewCell {
         }
         else if let url = viewModel.iconUrl {
             let task = URLSession.shared.dataTask(with: url) { [weak self] data, _, _ in
+                if let data = data{
+                    viewModel.iconData = data
+                    DispatchQueue.main.async {
+                        self?.iconImageView.image = UIImage(data: data)
+                    }
+            }
+        }
+            task.resume()
+        }
+    }
+}
