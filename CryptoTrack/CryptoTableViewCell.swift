@@ -88,3 +88,49 @@ class CryptoTableViewCell: UITableViewCell {
             height: size
         )
         
+        nameLabel.sizeToFit()
+        priceLabel.sizeToFit()
+        symbolLabel.sizeToFit()
+        
+        
+        nameLabel.frame = CGRect(
+                        x: 25 + size,
+                        y: 0,
+                        width: contentView.frame.size.width/2,
+                        height: contentView.frame.height/2
+                    )
+        symbolLabel.frame = CGRect(
+                        x: 30 + size,
+                        y: contentView.frame.size.height/2,
+                        width: contentView.frame.size.width/2,
+                        height: contentView.frame.height/2
+                    )
+        
+        priceLabel.frame = CGRect(
+                        x: contentView.frame.size.width/2,
+                        y: 0,
+                        width: (contentView.frame.size.width/2)-15 ,
+                        height: contentView.frame.height/2
+                    )
+    }
+    
+    override func prepareForReuse() {
+        super.prepareForReuse()
+        iconImageView.image = nil
+        nameLabel.text = nil
+        priceLabel.text = nil
+        symbolLabel.text = nil
+    }
+    
+    // Configure
+    
+    func configure(with viewModel: CryptoTableViewCellModel) {
+        nameLabel.text = viewModel.name
+        symbolLabel.text = viewModel.symbol
+        priceLabel.text = viewModel.price
+        
+        if let data = viewModel.iconData {
+            iconImageView.image = UIImage(data: data)
+        }
+        else if let url = viewModel.iconUrl {
+            let task = URLSession.shared.dataTask(with: url) { [weak self] data, _, _ in
