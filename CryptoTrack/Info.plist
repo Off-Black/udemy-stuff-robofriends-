@@ -41,4 +41,6 @@
 			</array>
 		</dict>
 	</dict>
-	<key>UIApplicationSuppor
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UILaunchSto
