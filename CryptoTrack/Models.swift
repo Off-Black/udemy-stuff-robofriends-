@@ -15,4 +15,8 @@ struct Crypto: Codable {
     let type_is_crypto: Int?
 }
 
-struct Icon: C
+struct Icon: Codable {
+    let asset_id: String
+    let url: String
+}
+//"asset_id": "B
