@@ -19,4 +19,6 @@ struct Icon: Codable {
     let asset_id: String
     let url: String
 }
-//"asset_id": "B
+//"asset_id": "BTC",
+//    "name": "Bitcoin",
+//    "type_is_crypto": 
