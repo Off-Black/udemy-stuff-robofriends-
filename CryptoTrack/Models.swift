@@ -21,4 +21,6 @@ struct Icon: Codable {
 }
 //"asset_id": "BTC",
 //    "name": "Bitcoin",
-//    "type_is_crypto": 
+//    "type_is_crypto": 1,
+//    "data_start": "2010-07-17",
+//    "data_end": 
