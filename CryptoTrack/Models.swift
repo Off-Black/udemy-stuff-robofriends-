@@ -25,4 +25,5 @@ struct Icon: Codable {
 //    "data_start": "2010-07-17",
 //    "data_end": "2021-06-15",
 //    "data_quote_start": "2014-02-24T17:43:05.0000000Z",
-//    "
+//    "data_quote_end": "2021-06-15T23:31:41.3040078Z",
+//    "da
