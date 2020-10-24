@@ -29,4 +29,6 @@ struct Icon: Codable {
 //    "data_orderbook_start": "2014-02-24T17:43:05.0000000Z",
 //    "data_orderbook_end": "2020-08-05T14:38:38.3413202Z",
 //    "data_trade_start": "2010-07-17T23:09:17.0000000Z",
-//    "data_trade_end": "2021-06-15T23:30:03.
+//    "data_trade_end": "2021-06-15T23:30:03.0533333Z",
+//    "data_symbols_count": 56812,
+//    "
