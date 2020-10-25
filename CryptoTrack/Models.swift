@@ -32,4 +32,5 @@ struct Icon: Codable {
 //    "data_trade_end": "2021-06-15T23:30:03.0533333Z",
 //    "data_symbols_count": 56812,
 //    "volume_1hrs_usd": 50842966063194.52,
-//    "volume_1day_usd": 657516899
+//    "volume_1day_usd": 6575168993205826.01,
+//    "volume_1mth_usd": 64133560323467310
