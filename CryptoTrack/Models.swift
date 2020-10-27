@@ -35,4 +35,6 @@ struct Icon: Codable {
 //    "volume_1day_usd": 6575168993205826.01,
 //    "volume_1mth_usd": 641335603234673100.64,
 //    "price_usd": 40243.677022257096265482036471,
-//    "id_icon": "4caf2b16-a017-4e26-a348-2cea69c34cb
+//    "id_icon": "4caf2b16-a017-4e26-a348-2cea69c34cba"
+
+
