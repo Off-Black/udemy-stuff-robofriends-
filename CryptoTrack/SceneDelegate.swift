@@ -12,4 +12,5 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     var window: UIWindow?
 
 
-    func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UI
+    func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
+        // Use this method to optionally c
