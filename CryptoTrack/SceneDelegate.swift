@@ -9,4 +9,7 @@ import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
-    var window
+    var window: UIWindow?
+
+
+    func scene(_ scene: UIScene, willConnect
