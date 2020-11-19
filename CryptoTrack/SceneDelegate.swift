@@ -20,4 +20,5 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {
-        // C
+        // Called as the scene is being released by the system.
+        // This 
