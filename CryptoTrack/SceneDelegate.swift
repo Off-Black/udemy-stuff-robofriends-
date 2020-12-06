@@ -32,4 +32,4 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     }
 
     func sceneWillResignActive(_ scene: UIScene) {
-        // Calle
+        // Called when the scene will move from an active state to an inactive s
