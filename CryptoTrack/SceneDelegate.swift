@@ -37,4 +37,5 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     }
 
     func sceneWillEnterForeground(_ scene: UIScene) {
-        // Called
+        // Called as the scene transitions from the background to the foreground.
+     
