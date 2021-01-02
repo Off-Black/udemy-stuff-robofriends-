@@ -7,4 +7,8 @@
 
 import UIKit
 
-// API
+// API Caller
+// UI to show different cryptos
+// MVVM
+
+class View
