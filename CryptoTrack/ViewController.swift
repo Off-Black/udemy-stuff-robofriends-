@@ -11,4 +11,4 @@ import UIKit
 // UI to show different cryptos
 // MVVM
 
-class View
+class ViewController: UIViewController, UITableViewDelegate, U
