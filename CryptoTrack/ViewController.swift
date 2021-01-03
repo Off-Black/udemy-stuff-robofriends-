@@ -11,4 +11,7 @@ import UIKit
 // UI to show different cryptos
 // MVVM
 
-class ViewController: UIViewController, UITableViewDelegate, U
+class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
+    
+    private let tableView: UITableView = {
+  
