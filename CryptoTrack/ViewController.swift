@@ -14,4 +14,5 @@ import UIKit
 class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
     
     private let tableView: UITableView = {
-        let tableView = UITableView(frame: .zero, style: .g
+        let tableView = UITableView(frame: .zero, style: .grouped)
+        tableView.register(CryptoTableViewCell.self,
