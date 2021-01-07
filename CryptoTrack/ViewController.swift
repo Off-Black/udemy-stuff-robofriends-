@@ -16,4 +16,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     private let tableView: UITableView = {
         let tableView = UITableView(frame: .zero, style: .grouped)
         tableView.register(CryptoTableViewCell.self,
-                           forCellReuseIdentifier: CryptoTableViewCell
+                           forCellReuseIdentifier: CryptoTableViewCell.identifier )
+        return tableView
+    } ()
+    
+    priva
