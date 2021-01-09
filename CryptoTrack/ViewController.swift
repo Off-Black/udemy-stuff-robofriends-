@@ -25,4 +25,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     static let numberFormatter: NumberFormatter = {
         let formatter = NumberFormatter()
         formatter.locale = .current
-       
+        formatter.allowsFloats = true
+        formatter.numberStyle = .currency
+    
