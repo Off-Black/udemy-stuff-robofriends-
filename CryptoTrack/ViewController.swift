@@ -20,4 +20,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         return tableView
     } ()
     
-    priva
+    private var viewModels = [CryptoTableViewCellModel]()
+    
+    sta
