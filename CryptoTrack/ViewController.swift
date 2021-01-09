@@ -27,4 +27,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         formatter.locale = .current
         formatter.allowsFloats = true
         formatter.numberStyle = .currency
+        formatter.formatterBehavior = .default
     
