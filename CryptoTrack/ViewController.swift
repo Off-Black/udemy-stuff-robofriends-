@@ -22,4 +22,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     
     private var viewModels = [CryptoTableViewCellModel]()
     
-    sta
+    static let numberFormatter: NumberFormatter = {
+        let formatter
