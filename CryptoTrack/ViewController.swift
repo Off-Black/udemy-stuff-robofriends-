@@ -23,4 +23,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     private var viewModels = [CryptoTableViewCellModel]()
     
     static let numberFormatter: NumberFormatter = {
-        let formatter
+        let formatter = NumberFormatter()
+        formatter.locale = .current
+       
