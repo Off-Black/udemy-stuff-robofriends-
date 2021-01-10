@@ -34,4 +34,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        title =
+        title = "Crypto Tracker"
+        view.addSubview(tableView)
+      
