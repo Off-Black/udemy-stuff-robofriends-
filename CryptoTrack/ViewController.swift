@@ -36,4 +36,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         super.viewDidLoad()
         title = "Crypto Tracker"
         view.addSubview(tableView)
-      
+        tableView.dataSource = self
+        tableView.delegat
