@@ -37,4 +37,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         title = "Crypto Tracker"
         view.addSubview(tableView)
         tableView.dataSource = self
-        tableView.delegat
+        tableView.delegate = self
+        
+        APICaller.shared.getAllCryptoData { [we
