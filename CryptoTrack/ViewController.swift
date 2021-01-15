@@ -39,4 +39,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         tableView.dataSource = self
         tableView.delegate = self
         
-        APICaller.shared.getAllCryptoData { [we
+        APICaller.shared.getAllCryptoData { [weak self] result in
+            switch result {
+ 
