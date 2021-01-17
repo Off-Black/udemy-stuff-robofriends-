@@ -43,4 +43,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             switch result {
             case .success(let models):
                 self?.viewModels = models.compactMap({ model in
-                    //Number Forma
+                    //Number Formatter
+                    let price = model.price_usd ?? 0
+        
