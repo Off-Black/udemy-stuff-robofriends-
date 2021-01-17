@@ -42,4 +42,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         APICaller.shared.getAllCryptoData { [weak self] result in
             switch result {
             case .success(let models):
-                self?.vi
+                self?.viewModels = models.compactMap({ model in
+                    //Number Forma
