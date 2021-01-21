@@ -45,4 +45,4 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                 self?.viewModels = models.compactMap({ model in
                     //Number Formatter
                     let price = model.price_usd ?? 0
-        
+                    let formatter = ViewController.numberFo
