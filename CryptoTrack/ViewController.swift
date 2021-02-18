@@ -46,4 +46,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                     //Number Formatter
                     let price = model.price_usd ?? 0
                     let formatter = ViewController.numberFormatter
-                    let priceString = format
+                    let priceString = formatter.string(from: NSNumber(value: price))
+             
