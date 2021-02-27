@@ -49,4 +49,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                     let priceString = formatter.string(from: NSNumber(value: price))
                     
                     let iconUrl = URL(
-                
+                                    string:
+                              
