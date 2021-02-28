@@ -50,4 +50,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                     
                     let iconUrl = URL(
                                     string:
-                              
+                                    APICaller.shared.icons.filter({ icon in
+                             
