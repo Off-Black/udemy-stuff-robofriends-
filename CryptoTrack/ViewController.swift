@@ -51,4 +51,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                     let iconUrl = URL(
                                     string:
                                     APICaller.shared.icons.filter({ icon in
-                             
+                                    icon.asset_id == model.asset_id
+                  
