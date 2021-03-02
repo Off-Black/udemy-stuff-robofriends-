@@ -52,4 +52,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                                     string:
                                     APICaller.shared.icons.filter({ icon in
                                     icon.asset_id == model.asset_id
-                  
+                                }).first?.url ?? ""
+                        )
+         
