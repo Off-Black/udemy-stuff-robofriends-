@@ -54,4 +54,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                                     icon.asset_id == model.asset_id
                                 }).first?.url ?? ""
                         )
-         
+                    
+                    return CryptoTableViewCellModel(
