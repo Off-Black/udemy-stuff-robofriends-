@@ -56,3 +56,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                         )
                     
                     return CryptoTableViewCellModel(
+                        name: model.name ?? "N/A",
+        
