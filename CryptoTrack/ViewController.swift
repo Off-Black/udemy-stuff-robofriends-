@@ -63,4 +63,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                     )
                 })
                 
-            
+                DispatchQueue.main.async {
+                    self?.tab
