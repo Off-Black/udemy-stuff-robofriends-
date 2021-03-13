@@ -64,4 +64,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                 })
                 
                 DispatchQueue.main.async {
-                    self?.tab
+                    self?.tableView.reloadData()
+                }
+            case .failure(let error
