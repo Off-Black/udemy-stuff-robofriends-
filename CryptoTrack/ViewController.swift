@@ -58,4 +58,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                     return CryptoTableViewCellModel(
                         name: model.name ?? "N/A",
                         symbol: model.asset_id,
-                        price: priceStri
+                        price: priceString ?? "N/A",
+                        iconUrl: iconUrl
+       
