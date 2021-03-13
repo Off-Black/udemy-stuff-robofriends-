@@ -60,4 +60,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                         symbol: model.asset_id,
                         price: priceString ?? "N/A",
                         iconUrl: iconUrl
-       
+                    )
+                })
+                
+            
