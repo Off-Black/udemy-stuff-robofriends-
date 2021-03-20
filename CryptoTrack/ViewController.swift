@@ -74,4 +74,9 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
-        tableView.frame 
+        tableView.frame = view.bounds
+    }
+    
+    // TableView
+    
+    func tableVie
