@@ -79,4 +79,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     
     // TableView
     
-    func tableView(_ tableView: UITableView, numberOfRowsInSection secti
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return viewModels.count
+    }
+    
+  
