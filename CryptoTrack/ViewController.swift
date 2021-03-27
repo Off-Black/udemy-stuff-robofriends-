@@ -83,4 +83,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         return viewModels.count
     }
     
-    func tableView(_ tableView: UITableView, cellForRowAt indexPat
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        guard let cell = tableView
