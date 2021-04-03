@@ -88,4 +88,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         ) as? CryptoTableViewCell else {
             fatalError()
         }
-        cell.configure(with: view
+        cell.configure(with: viewModels[indexPath.row])
+        return cell
+    }
+    
+    
