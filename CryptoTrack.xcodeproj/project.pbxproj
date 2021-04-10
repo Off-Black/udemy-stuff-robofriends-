@@ -7,4 +7,4 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D205F93E2670935200116DA5 /* CryptoTableVie
+		D205F93E2670935200116DA5 /* CryptoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D205F93D26709352001
