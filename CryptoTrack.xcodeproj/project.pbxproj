@@ -10,4 +10,4 @@
 		D205F93E2670935200116DA5 /* CryptoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D205F93D2670935200116DA5 /* CryptoTableViewCell.swift */; };
 		D226700726E34D1A009A9A9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D226700626E34D1A009A9A9E /* Assets.xcassets */; };
 		D25DEC382669F40B00ED0A0B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D25DEC372669F40B00ED0A0B /* AppDelegate.swift */; };
-	
+		D25DEC3A2669F40B00ED0A0B /* SceneDelegate.swift in Sources */ = {is
