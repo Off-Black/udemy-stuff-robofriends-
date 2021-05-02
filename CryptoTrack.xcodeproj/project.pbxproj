@@ -14,4 +14,4 @@
 		D25DEC3C2669F40B00ED0A0B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D25DEC3B2669F40B00ED0A0B /* ViewController.swift */; };
 		D25DEC3F2669F40B00ED0A0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D25DEC3D2669F40B00ED0A0B /* Main.storyboard */; };
 		D25DEC442669F40B00ED0A0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D25DEC422669F40B00ED0A0B /* LaunchScreen.storyboard */; };
-		D25DEC4F2669F40B00ED0A0B /* CryptoTrackTests.swift in Sources */ = {isa = PBXBu
+		D25DEC4F2669F40B00ED0A0B /* CryptoTrackTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D25DEC4E2669F40B00ED0A0B /* CryptoTrackTest
