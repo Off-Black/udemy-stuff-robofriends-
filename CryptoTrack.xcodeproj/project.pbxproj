@@ -17,4 +17,4 @@
 		D25DEC4F2669F40B00ED0A0B /* CryptoTrackTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D25DEC4E2669F40B00ED0A0B /* CryptoTrackTests.swift */; };
 		D25DEC5A2669F40B00ED0A0B /* CryptoTrackUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D25DEC592669F40B00ED0A0B /* CryptoTrackUITests.swift */; };
 		D25DEC6B2669F57F00ED0A0B /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = D25DEC6A2669F57F00ED0A0B /* APICaller.swift */; };
-		D2
+		D2A673E2267970310009C800 /* Models.swift in Sources */ = {is
