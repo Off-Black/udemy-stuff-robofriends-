@@ -20,4 +20,6 @@
 		D2A673E2267970310009C800 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2A673E1267970310009C800 /* Models.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerIt
+/* Begin PBXContainerItemProxy section */
+		D25DEC4B2669F40B00ED0A0B /* PBXContainerItemProxy */ = {
+	
