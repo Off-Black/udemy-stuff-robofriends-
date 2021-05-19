@@ -28,4 +28,6 @@
 			remoteGlobalIDString = D25DEC332669F40B00ED0A0B;
 			remoteInfo = CryptoTrack;
 		};
-		D25DEC562669F40B00ED0A0B /* PBXContainerItemPr
+		D25DEC562669F40B00ED0A0B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D25DEC2C2
