@@ -30,4 +30,5 @@
 		};
 		D25DEC562669F40B00ED0A0B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D25DEC2C2
+			containerPortal = D25DEC2C2669F40B00ED0A0B /* Project object */;
+			proxyType =
