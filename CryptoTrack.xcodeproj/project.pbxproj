@@ -38,4 +38,4 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D205F93D2670935200116DA5 /* CryptoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileTyp
+		D205F93D2670935200116DA5 /* CryptoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoTableViewCell.swift; sourceTree = "<group
