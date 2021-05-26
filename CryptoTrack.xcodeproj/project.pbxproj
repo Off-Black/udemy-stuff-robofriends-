@@ -40,4 +40,4 @@
 /* Begin PBXFileReference section */
 		D205F93D2670935200116DA5 /* CryptoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoTableViewCell.swift; sourceTree = "<group>"; };
 		D226700626E34D1A009A9A9E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../../Downloads/AppIcons-2/Assets.xcassets"; sourceTree = "<group>"; };
-		D25DEC342669F40B00ED0A0B /* CryptoTrack.app */ = {isa = P
+		D25DEC342669F40B00ED0A0B /* CryptoTrack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; in
