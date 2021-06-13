@@ -45,4 +45,4 @@
 		D25DEC392669F40B00ED0A0B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D25DEC3B2669F40B00ED0A0B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D25DEC3E2669F40B00ED0A0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D25DEC432669F40B00ED0A0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboa
+		D25DEC432669F40B00ED0A0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboar
