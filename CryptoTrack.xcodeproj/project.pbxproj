@@ -47,4 +47,4 @@
 		D25DEC3E2669F40B00ED0A0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D25DEC432669F40B00ED0A0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D25DEC452669F40B00ED0A0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D25DEC4A2669F40B00ED0A0B /* CryptoTrackTests.xctest */ = {isa = PBXF
+		D25DEC4A2669F40B00ED0A0B /* CryptoTrackTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInInd
