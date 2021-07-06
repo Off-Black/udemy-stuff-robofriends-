@@ -59,4 +59,5 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		D25DEC312669F40B00ED0A0B /* Frameworks */ = {
-			isa = PBXFr
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647
