@@ -65,4 +65,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D25DEC472669F40B00ED0A0B /* Fram
+		D25DEC472669F40B00ED0A0B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2
