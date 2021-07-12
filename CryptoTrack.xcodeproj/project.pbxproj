@@ -63,4 +63,6 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			runOnlyForDeploymentPostpro
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D25DEC472669F40B00ED0A0B /* Fram
