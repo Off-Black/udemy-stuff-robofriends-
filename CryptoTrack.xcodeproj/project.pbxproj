@@ -70,4 +70,7 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			runOnlyForDeploymentPostprocessin
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D25DEC522669F40B00ED0A0B /* Frameworks */ = {
+			isa
