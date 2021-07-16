@@ -73,4 +73,5 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		D25DEC522669F40B00ED0A0B /* Frameworks */ = {
-			isa
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 21474836
