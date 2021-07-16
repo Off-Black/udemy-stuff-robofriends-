@@ -79,4 +79,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-/* End PBXFrameworksBuildPhase sec
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D25DEC2B2669F4
