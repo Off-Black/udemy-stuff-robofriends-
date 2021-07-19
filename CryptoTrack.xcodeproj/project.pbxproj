@@ -90,4 +90,7 @@
 				D25DEC582669F40B00ED0A0B /* CryptoTrackUITests */,
 				D25DEC352669F40B00ED0A0B /* Products */,
 			);
-			sourceTree = "<
+			sourceTree = "<group>";
+		};
+		D25DEC352669F40B00ED0A0B /* Products */ = {
+	
