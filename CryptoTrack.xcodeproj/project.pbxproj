@@ -95,4 +95,5 @@
 		D25DEC352669F40B00ED0A0B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D25DEC342669F40B00ED0A0B /* CryptoT
+				D25DEC342669F40B00ED0A0B /* CryptoTrack.app */,
+				D25DEC4A2669F40B00ED0A0B /* CryptoTrackTests.xcte
