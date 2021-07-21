@@ -97,4 +97,8 @@
 			children = (
 				D25DEC342669F40B00ED0A0B /* CryptoTrack.app */,
 				D25DEC4A2669F40B00ED0A0B /* CryptoTrackTests.xctest */,
-				D25DEC552669F40B00ED0A0B /* CryptoTrackUITests.xctest *
+				D25DEC552669F40B00ED0A0B /* CryptoTrackUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		}
