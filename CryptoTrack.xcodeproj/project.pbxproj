@@ -104,4 +104,6 @@
 		};
 		D25DEC362669F40B00ED0A0B /* CryptoTrack */ = {
 			isa = PBXGroup;
-			c
+			children = (
+				D25DEC372669F40B00ED0A0B /* AppDelegate.swift */,
+			
