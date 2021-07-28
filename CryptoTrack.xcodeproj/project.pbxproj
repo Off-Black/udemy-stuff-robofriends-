@@ -109,4 +109,5 @@
 				D25DEC392669F40B00ED0A0B /* SceneDelegate.swift */,
 				D25DEC3B2669F40B00ED0A0B /* ViewController.swift */,
 				D25DEC3D2669F40B00ED0A0B /* Main.storyboard */,
-				D25DEC422669F40B
+				D25DEC422669F40B00ED0A0B /* LaunchScreen.storyboard */,
+				D226700626E34D1A009
