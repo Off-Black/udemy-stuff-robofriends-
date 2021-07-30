@@ -116,3 +116,7 @@
 				D205F93D2670935200116DA5 /* CryptoTableViewCell.swift */,
 				D2A673E1267970310009C800 /* Models.swift */,
 			);
+			path = CryptoTrack;
+			sourceTree = "<group>";
+		};
+		D25DEC4D2669
