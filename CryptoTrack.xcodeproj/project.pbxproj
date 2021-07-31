@@ -121,4 +121,5 @@
 		};
 		D25DEC4D2669F40B00ED0A0B /* CryptoTrackTests */ = {
 			isa = PBXGroup;
-			children =
+			children = (
+				D25DEC4E2669F40B00ED0A0B /* CryptoTrackTests.swift */
