@@ -125,4 +125,7 @@
 				D25DEC4E2669F40B00ED0A0B /* CryptoTrackTests.swift */,
 				D25DEC502669F40B00ED0A0B /* Info.plist */,
 			);
-			path = CryptoT
+			path = CryptoTrackTests;
+			sourceTree = "<group>";
+		};
+		D25DEC582669F40B00ED0A0B 
