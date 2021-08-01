@@ -128,4 +128,7 @@
 			path = CryptoTrackTests;
 			sourceTree = "<group>";
 		};
-		D25DEC582669F40B00ED0A0B 
+		D25DEC582669F40B00ED0A0B /* CryptoTrackUITests */ = {
+			isa = PBXGroup;
+			children = (
+				D2
