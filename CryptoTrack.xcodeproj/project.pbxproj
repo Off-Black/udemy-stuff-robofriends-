@@ -134,4 +134,7 @@
 				D25DEC592669F40B00ED0A0B /* CryptoTrackUITests.swift */,
 				D25DEC5B2669F40B00ED0A0B /* Info.plist */,
 			);
-			path = 
+			path = CryptoTrackUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXG
