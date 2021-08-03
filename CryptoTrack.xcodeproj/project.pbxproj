@@ -137,4 +137,7 @@
 			path = CryptoTrackUITests;
 			sourceTree = "<group>";
 		};
-/* End PBXG
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D25DEC332669F40B00
