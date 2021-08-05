@@ -142,4 +142,6 @@
 /* Begin PBXNativeTarget section */
 		D25DEC332669F40B00ED0A0B /* CryptoTrack */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D25DEC5E2669F40B00ED0A0B /* Build configuration list f
+			buildConfigurationList = D25DEC5E2669F40B00ED0A0B /* Build configuration list for PBXNativeTarget "CryptoTrack" */;
+			buildPhases = (
+				D25DEC
