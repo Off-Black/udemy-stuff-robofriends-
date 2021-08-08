@@ -152,4 +152,6 @@
 			);
 			dependencies = (
 			);
-			name
+			name = CryptoTrack;
+			productName = CryptoTrack;
+			productReference = 
