@@ -155,4 +155,6 @@
 			name = CryptoTrack;
 			productName = CryptoTrack;
 			productReference = D25DEC342669F40B00ED0A0B /* CryptoTrack.app */;
-			productType = "com.apple.pro
+			productType = "com.apple.product-type.application";
+		};
+		D25DEC492669
