@@ -157,4 +157,5 @@
 			productReference = D25DEC342669F40B00ED0A0B /* CryptoTrack.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D25DEC492669
+		D25DEC492669F40B00ED0A0B /* CryptoTrackTests */ = {
+			isa = PBXNativeTarge
