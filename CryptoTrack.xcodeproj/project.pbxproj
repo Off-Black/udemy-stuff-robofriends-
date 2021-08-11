@@ -158,4 +158,5 @@
 			productType = "com.apple.product-type.application";
 		};
 		D25DEC492669F40B00ED0A0B /* CryptoTrackTests */ = {
-			isa = PBXNativeTarge
+			isa = PBXNativeTarget;
+			buildConfigurationList = D25DEC612669F40B00ED0A0B /* Bui
