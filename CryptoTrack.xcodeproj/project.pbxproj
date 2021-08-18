@@ -172,4 +172,5 @@
 			);
 			name = CryptoTrackTests;
 			productName = CryptoTrackTests;
-			productReference = D25DEC4A2669F40B00ED0A0B /* CryptoT
+			productReference = D25DEC4A2669F40B00ED0A0B /* CryptoTrackTests.xctest */;
+			productType = "com.apple.product-t
