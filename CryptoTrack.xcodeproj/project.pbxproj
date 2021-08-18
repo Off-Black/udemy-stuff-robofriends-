@@ -169,3 +169,6 @@
 			);
 			dependencies = (
 				D25DEC4C2669F40B00ED0A0B /* PBXTargetDependency */,
+			);
+			name = CryptoTrackTests;
+			productName = CryptoTrackT
