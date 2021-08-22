@@ -175,4 +175,5 @@
 			productReference = D25DEC4A2669F40B00ED0A0B /* CryptoTrackTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		D25DEC54266
+		D25DEC542669F40B00ED0A0B /* CryptoTrackUITests */ = {
+			isa = PBXNa
