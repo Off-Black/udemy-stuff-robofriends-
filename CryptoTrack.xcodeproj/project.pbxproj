@@ -177,4 +177,6 @@
 		};
 		D25DEC542669F40B00ED0A0B /* CryptoTrackUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D25DEC642669F40B00ED0A0B /* Build configuration list for PBXNativeTarget "CryptoTrackUI
+			buildConfigurationList = D25DEC642669F40B00ED0A0B /* Build configuration list for PBXNativeTarget "CryptoTrackUITests" */;
+			buildPhases = (
+				D25DEC512669F40B00ED0A0B /* Sources
