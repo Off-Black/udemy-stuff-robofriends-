@@ -179,4 +179,5 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D25DEC642669F40B00ED0A0B /* Build configuration list for PBXNativeTarget "CryptoTrackUITests" */;
 			buildPhases = (
-				D25DEC512669F40B00ED0A0B /* Sources
+				D25DEC512669F40B00ED0A0B /* Sources */,
+				D25DEC522669F40B00ED0A0B /* Frameworks */
