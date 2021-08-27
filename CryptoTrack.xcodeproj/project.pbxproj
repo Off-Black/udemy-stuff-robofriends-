@@ -186,4 +186,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				D25DEC572669F40B00ED0A0B 
+				D25DEC572669F40B00ED0A0B /* PBXTargetDependency */,
+			);
+			name = CryptoTrackUITests;
+			prod
