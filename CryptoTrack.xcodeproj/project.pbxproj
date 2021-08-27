@@ -189,4 +189,5 @@
 				D25DEC572669F40B00ED0A0B /* PBXTargetDependency */,
 			);
 			name = CryptoTrackUITests;
-			prod
+			productName = CryptoTrackUITests;
+			productReference = D25DEC552669F40
