@@ -183,4 +183,7 @@
 				D25DEC522669F40B00ED0A0B /* Frameworks */,
 				D25DEC532669F40B00ED0A0B /* Resources */,
 			);
-			buildRu
+			buildRules = (
+			);
+			dependencies = (
+				D25DEC572669F40B00ED0A0B 
