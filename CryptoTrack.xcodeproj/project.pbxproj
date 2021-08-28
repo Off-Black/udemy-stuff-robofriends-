@@ -191,4 +191,6 @@
 			name = CryptoTrackUITests;
 			productName = CryptoTrackUITests;
 			productReference = D25DEC552669F40B00ED0A0B /* CryptoTrackUITests.xctest */;
-			productType = "
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTar
