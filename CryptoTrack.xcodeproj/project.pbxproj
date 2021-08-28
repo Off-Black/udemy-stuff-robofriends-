@@ -190,4 +190,5 @@
 			);
 			name = CryptoTrackUITests;
 			productName = CryptoTrackUITests;
-			productReference = D25DEC552669F40
+			productReference = D25DEC552669F40B00ED0A0B /* CryptoTrackUITests.xctest */;
+			productType = "
