@@ -193,4 +193,7 @@
 			productReference = D25DEC552669F40B00ED0A0B /* CryptoTrackUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
-/* End PBXNativeTar
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D25DEC2C26
