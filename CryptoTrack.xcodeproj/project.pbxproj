@@ -198,4 +198,6 @@
 /* Begin PBXProject section */
 		D25DEC2C2669F40B00ED0A0B /* Project object */ = {
 			isa = PBXProject;
-			
+			attributes = {
+				LastSwiftUpdateCheck = 1200;
+				LastUp
