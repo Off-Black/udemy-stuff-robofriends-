@@ -202,4 +202,7 @@
 				LastSwiftUpdateCheck = 1200;
 				LastUpgradeCheck = 1200;
 				TargetAttributes = {
-					D25DEC332669F40B
+					D25DEC332669F40B00ED0A0B = {
+						CreatedOnToolsVersion = 12.0.1;
+					};
+					D
