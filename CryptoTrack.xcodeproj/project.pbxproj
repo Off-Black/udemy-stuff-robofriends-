@@ -212,4 +212,7 @@
 					D25DEC542669F40B00ED0A0B = {
 						CreatedOnToolsVersion = 12.0.1;
 						TestTargetID = D25DEC332669F40B00ED0A0B;
-					}
+					};
+				};
+			};
+			buildConfigurationList = D25DEC2F266
