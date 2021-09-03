@@ -215,4 +215,4 @@
 					};
 				};
 			};
-			buildConfigurationList = D25DEC2F266
+			buildConfigurationList = D25DEC2F2669F40B00ED0A0B /* Build configuration list for PBXProject "Cryp
