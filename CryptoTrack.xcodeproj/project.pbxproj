@@ -219,4 +219,8 @@
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
-			known
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D25DEC2B2669F40B00ED0A0B;
