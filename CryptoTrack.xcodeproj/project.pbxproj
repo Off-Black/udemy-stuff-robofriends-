@@ -217,4 +217,6 @@
 			};
 			buildConfigurationList = D25DEC2F2669F40B00ED0A0B /* Build configuration list for PBXProject "CryptoTrack" */;
 			compatibilityVersion = "Xcode 9.3";
-			devel
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			known
