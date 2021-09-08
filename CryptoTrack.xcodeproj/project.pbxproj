@@ -224,4 +224,7 @@
 				Base,
 			);
 			mainGroup = D25DEC2B2669F40B00ED0A0B;
-			productRefGroup = D25DEC352669F40B00ED0A0B 
+			productRefGroup = D25DEC352669F40B00ED0A0B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targ
