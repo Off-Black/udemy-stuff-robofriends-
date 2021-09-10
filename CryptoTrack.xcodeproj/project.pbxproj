@@ -230,4 +230,7 @@
 			targets = (
 				D25DEC332669F40B00ED0A0B /* CryptoTrack */,
 				D25DEC492669F40B00ED0A0B /* CryptoTrackTests */,
-				D25DEC542
+				D25DEC542669F40B00ED0A0B /* CryptoTrackUITests */,
+			);
+		};
+/* End PBXProject s
