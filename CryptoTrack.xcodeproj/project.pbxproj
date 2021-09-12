@@ -235,4 +235,6 @@
 		};
 /* End PBXProject section */
 
-/* Begin PBXResourcesBuildPhase sect
+/* Begin PBXResourcesBuildPhase section */
+		D25DEC322669F40B00ED0A0B /* Resources */ = {
+			isa = PBXRe
