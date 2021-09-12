@@ -233,4 +233,6 @@
 				D25DEC542669F40B00ED0A0B /* CryptoTrackUITests */,
 			);
 		};
-/* End PBXProject s
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase sect
