@@ -239,4 +239,5 @@
 		D25DEC322669F40B00ED0A0B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
-			
+			files = (
+				D25DEC442669F40B00ED0A0B /* LaunchScreen.storyb
