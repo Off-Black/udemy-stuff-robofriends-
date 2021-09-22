@@ -244,4 +244,7 @@
 				D226700726E34D1A009A9A9E /* Assets.xcassets in Resources */,
 				D25DEC3F2669F40B00ED0A0B /* Main.storyboard in Resources */,
 			);
-			runOnlyForDeploymentPostprocessing = 
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D25DEC482669F40B00ED0A0B /* Resources */ = {
+			isa = PBXResour
