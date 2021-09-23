@@ -251,4 +251,6 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			r
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D25DEC532669F
