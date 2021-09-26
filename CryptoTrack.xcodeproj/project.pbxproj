@@ -253,4 +253,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D25DEC532669F
+		D25DEC532669F40B00ED0A0B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			bu
