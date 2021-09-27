@@ -258,4 +258,6 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			runO
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBui
