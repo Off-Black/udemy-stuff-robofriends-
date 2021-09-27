@@ -255,4 +255,7 @@
 		};
 		D25DEC532669F40B00ED0A0B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
-			bu
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runO
