@@ -264,3 +264,5 @@
 
 /* Begin PBXSourcesBuildPhase section */
 		D25DEC302669F40B00ED0A0B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
