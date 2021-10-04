@@ -272,4 +272,6 @@
 				D25DEC3A2669F40B00ED0A0B /* SceneDelegate.swift in Sources */,
 				D2A673E2267970310009C800 /* Models.swift in Sources */,
 				D205F93E2670935200116DA5 /* CryptoTableViewCell.swift in Sources */,
-				D25DEC6B2669F57F00ED0A0B /* APICal
+				D25DEC6B2669F57F00ED0A0B /* APICaller.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocess
