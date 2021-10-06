@@ -274,4 +274,6 @@
 				D205F93E2670935200116DA5 /* CryptoTableViewCell.swift in Sources */,
 				D25DEC6B2669F57F00ED0A0B /* APICaller.swift in Sources */,
 			);
-			runOnlyForDeploymentPostprocess
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D25DEC462669F40B00ED0A0B /* Sources 
