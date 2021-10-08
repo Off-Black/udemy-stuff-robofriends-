@@ -276,4 +276,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D25DEC462669F40B00ED0A0B /* Sources 
+		D25DEC462669F40B00ED0A0B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 214748364
