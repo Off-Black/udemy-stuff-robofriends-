@@ -280,4 +280,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D25DEC4F2669F40B00ED0A0B /* CryptoTrackTes
+				D25DEC4F2669F40B00ED0A0B /* CryptoTrackTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessin
