@@ -278,4 +278,6 @@
 		};
 		D25DEC462669F40B00ED0A0B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
-			buildActionMask = 214748364
+			buildActionMask = 2147483647;
+			files = (
+				D25DEC4F2669F40B00ED0A0B /* CryptoTrackTes
