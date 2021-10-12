@@ -287,4 +287,5 @@
 		D25DEC512669F40B00ED0A0B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
-			files = 
+			files = (
+				D25DEC5A2669F40B00ED0A0B /* CryptoTrackUITests.swift i
