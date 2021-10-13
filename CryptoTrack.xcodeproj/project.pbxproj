@@ -294,4 +294,5 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXTargetDependenc
+/* Begin PBXTargetDependency section */
+		D25DEC4C2669F40B00ED0A0B /* PBXTargetDependency */ = 
