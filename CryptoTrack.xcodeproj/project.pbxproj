@@ -295,4 +295,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		D25DEC4C2669F40B00ED0A0B /* PBXTargetDependency */ = 
+		D25DEC4C2669F40B00ED0A0B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D25DEC332669F40B00ED0
