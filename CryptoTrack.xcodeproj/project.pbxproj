@@ -302,4 +302,5 @@
 		};
 		D25DEC572669F40B00ED0A0B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			
+			target = D25DEC332669F40B00ED0A0B /* CryptoTrack */;
+			targetProxy =
