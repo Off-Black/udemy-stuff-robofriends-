@@ -300,4 +300,6 @@
 			target = D25DEC332669F40B00ED0A0B /* CryptoTrack */;
 			targetProxy = D25DEC4B2669F40B00ED0A0B /* PBXContainerItemProxy */;
 		};
-		D25DEC572669F40B00ED0A0B /* PBXTargetDep
+		D25DEC572669F40B00ED0A0B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			
