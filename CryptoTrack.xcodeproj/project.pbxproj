@@ -305,4 +305,7 @@
 			target = D25DEC332669F40B00ED0A0B /* CryptoTrack */;
 			targetProxy = D25DEC562669F40B00ED0A0B /* PBXContainerItemProxy */;
 		};
-/* En
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		D25DEC
