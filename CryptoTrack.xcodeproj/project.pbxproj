@@ -309,4 +309,7 @@
 
 /* Begin PBXVariantGroup section */
 		D25DEC3D2669F40B00ED0A0B /* Main.storyboard */ = {
-			isa = PBXVa
+			isa = PBXVariantGroup;
+			children = (
+				D25DEC3E2669F40B00ED0A0B /* Base */,
+			);
