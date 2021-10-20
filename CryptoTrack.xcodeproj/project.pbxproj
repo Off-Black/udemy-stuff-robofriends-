@@ -319,4 +319,7 @@
 		D25DEC422669F40B00ED0A0B /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D25DEC432669F40B00ED0A0B
+				D25DEC432669F40B00ED0A0B /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
