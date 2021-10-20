@@ -326,4 +326,5 @@
 		};
 /* End PBXVariantGroup section */
 
-/* Begin XCBuildConfigu
+/* Begin XCBuildConfiguration section */
+		D25DEC5C2669F40B00ED0A0B /* Deb
