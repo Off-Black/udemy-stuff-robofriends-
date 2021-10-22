@@ -327,4 +327,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D25DEC5C2669F40B00ED0A0B /* Deb
+		D25DEC5C2669F40B00ED0A0B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEA
