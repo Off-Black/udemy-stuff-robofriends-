@@ -442,3 +442,6 @@
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
+		};
+		D25DEC5F2669F40B00ED0A0B /* Debug */ = {
+			isa = XCBuildConfig
