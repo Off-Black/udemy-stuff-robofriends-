@@ -452,4 +452,6 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7KFVST5L6U;
 				INFOPLIST_FILE = CryptoTrack/Info.plist;
-				LD_
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@exec
