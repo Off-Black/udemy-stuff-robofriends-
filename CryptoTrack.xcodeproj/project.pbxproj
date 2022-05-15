@@ -458,4 +458,6 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.josesahagun.CryptoTrack;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-	
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
+		
