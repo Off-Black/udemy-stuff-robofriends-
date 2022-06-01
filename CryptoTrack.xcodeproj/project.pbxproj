@@ -465,4 +465,6 @@
 			name = Debug;
 		};
 		D25DEC602669F40B00ED0A0B /* Release */ = {
-			isa 
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASS
