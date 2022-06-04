@@ -467,4 +467,5 @@
 		D25DEC602669F40B00ED0A0B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASS
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLO
