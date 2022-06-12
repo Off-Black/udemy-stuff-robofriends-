@@ -472,4 +472,6 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7KFVST5L6U;
-				INFOPLIST_FILE = CryptoT
+				INFOPLIST_FILE = CryptoTrack/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
