@@ -477,4 +477,5 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_I
+				PRODUCT_BUNDLE_IDENTIFIER = com.josesahagun.CryptoTrack;
+				PRODUCT_NAME = "$(
