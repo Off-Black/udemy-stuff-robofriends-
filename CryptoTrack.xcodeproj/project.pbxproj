@@ -483,4 +483,6 @@
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
-			name
+			name = Release;
+		};
+		D25DEC622669F40B00ED0A0B /* Debug */ = {
