@@ -488,4 +488,5 @@
 		D25DEC622669F40B00ED0A0B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = 
