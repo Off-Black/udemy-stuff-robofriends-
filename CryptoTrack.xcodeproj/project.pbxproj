@@ -507,4 +507,6 @@
 			name = Debug;
 		};
 		D25DEC632669F40B00ED0A0B /* Release */ = {
-			isa = XCBuildConfigura
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
