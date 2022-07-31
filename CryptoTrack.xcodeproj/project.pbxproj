@@ -519,4 +519,6 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.j
+				PRODUCT_BUNDLE_IDENTIFIER = com.josesahagun.CryptoTrackTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIF
