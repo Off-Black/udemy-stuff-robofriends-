@@ -525,4 +525,7 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CryptoTrack.app/CryptoTrack";
 			};
-			nam
+			name = Release;
+		};
+		D25DEC652669F40B00ED0A0B /* Debug */ = {
+			i
