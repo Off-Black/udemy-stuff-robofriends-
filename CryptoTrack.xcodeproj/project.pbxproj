@@ -528,4 +528,6 @@
 			name = Release;
 		};
 		D25DEC652669F40B00ED0A0B /* Debug */ = {
-			i
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SW
