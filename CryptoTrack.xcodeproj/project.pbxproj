@@ -546,4 +546,6 @@
 			};
 			name = Debug;
 		};
-		D25DEC662
+		D25DEC662669F40B00ED0A0B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSetting
