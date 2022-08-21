@@ -538,4 +538,6 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFI
+				PRODUCT_BUNDLE_IDENTIFIER = com.josesahagun.CryptoTrackUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+		
