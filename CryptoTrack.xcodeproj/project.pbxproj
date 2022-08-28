@@ -548,4 +548,5 @@
 		};
 		D25DEC662669F40B00ED0A0B /* Release */ = {
 			isa = XCBuildConfiguration;
-			buildSetting
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES
