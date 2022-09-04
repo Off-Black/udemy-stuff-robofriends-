@@ -551,4 +551,5 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = CryptoTrac
+				INFOPLIST_FILE = CryptoTrackUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = 
