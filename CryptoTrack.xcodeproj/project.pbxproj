@@ -558,4 +558,6 @@
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.josesahagun.CryptoTrackUITests;
-				PRODUCT_NAME = "$(TARGE
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVIC
