@@ -565,4 +565,7 @@
 			};
 			name = Release;
 		};
-/* End XCBuildConfigura
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D
