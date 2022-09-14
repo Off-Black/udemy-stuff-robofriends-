@@ -568,4 +568,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D25DEC2F2669F40B00ED0A0B /* Build configuration list for PBXProject "Cryp
+		D25DEC2F2669F40B00ED0A0B /* Build configuration list for PBXProject "CryptoTrack" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+	
