@@ -571,4 +571,5 @@
 		D25DEC2F2669F40B00ED0A0B /* Build configuration list for PBXProject "CryptoTrack" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-	
+				D25DEC5C2669F40B00ED0A0B /* Debug */,
+				D25DEC5D2669F40B00ED0A0B /*
