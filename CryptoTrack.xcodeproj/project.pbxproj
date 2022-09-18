@@ -575,4 +575,6 @@
 				D25DEC5D2669F40B00ED0A0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultC
+			defaultConfigurationName = Release;
+		};
+		D25DEC5E2669F40B00ED0A0B /* Build c
