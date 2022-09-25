@@ -579,4 +579,6 @@
 		};
 		D25DEC5E2669F40B00ED0A0B /* Build configuration list for PBXNativeTarget "CryptoTrack" */ = {
 			isa = XCConfigurationList;
-			buildConfigurations =
+			buildConfigurations = (
+				D25DEC5F2669F40B00ED0A0B /* Debug */,
+				D2
