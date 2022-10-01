@@ -583,4 +583,7 @@
 				D25DEC5F2669F40B00ED0A0B /* Debug */,
 				D25DEC602669F40B00ED0A0B /* Release */,
 			);
-			defaultConfiguration
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D25DEC612669
