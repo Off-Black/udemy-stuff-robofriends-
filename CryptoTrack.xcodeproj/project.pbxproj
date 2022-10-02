@@ -586,4 +586,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D25DEC612669F40B00ED0A0B /* Build configuration list for PBXNativeTarget "C
+		D25DEC612669F40B00ED0A0B /* Build configuration list for PBXNativeTarget "CryptoTrackTests" */ = {
+			isa = XCConfigurationList;
+			buildC
