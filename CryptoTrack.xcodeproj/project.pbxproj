@@ -592,4 +592,7 @@
 				D25DEC622669F40B00ED0A0B /* Debug */,
 				D25DEC632669F40B00ED0A0B /* Release */,
 			);
-			def
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+	
