@@ -596,4 +596,6 @@
 			defaultConfigurationName = Release;
 		};
 		D25DEC642669F40B00ED0A0B /* Build configuration list for PBXNativeTarget "CryptoTrackUITests" */ = {
-			isa = XCConfigurat
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D25DEC652669F4
