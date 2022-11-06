@@ -602,4 +602,6 @@
 				D25DEC662669F40B00ED0A0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfiguration
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
