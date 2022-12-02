@@ -5,4 +5,8 @@
 	<key>SchemeUserState</key>
 	<dict>
 		<key>CryptoTrack.xcscheme_^#shared#^_</key>
-		<di
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	
