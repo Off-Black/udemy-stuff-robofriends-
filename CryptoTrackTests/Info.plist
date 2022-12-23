@@ -4,4 +4,5 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
-	<key>C
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</str
