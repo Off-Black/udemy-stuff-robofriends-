@@ -7,4 +7,6 @@
 
 import XCTest
 
-class Cry
+class CryptoTrackUITests: XCTestCase {
+
+    override func setUpWithError() throws
