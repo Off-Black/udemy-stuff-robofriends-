@@ -25,4 +25,6 @@ class CryptoTrackUITests: XCTestCase {
     func testExample() throws {
         // UI tests must launch the application that they test.
         let app = XCUIApplication()
-        app.launc
+        app.launch()
+
+        // Use recording to get started writing UI
