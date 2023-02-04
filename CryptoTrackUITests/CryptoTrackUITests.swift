@@ -27,4 +27,5 @@ class CryptoTrackUITests: XCTestCase {
         let app = XCUIApplication()
         app.launch()
 
-        // Use recording to get started writing UI
+        // Use recording to get started writing UI tests.
+        // Use XCTAssert and related functions t
